@@ -4,11 +4,11 @@
 // ==> GENERAL
 
 // --> General settings
-$hesk_settings['site_title']='My Web site';
+$hesk_settings['site_title']='http://mardan.work/';
 $hesk_settings['site_url']='http://localhost';
-$hesk_settings['webmaster_mail']='support@domain.com';
-$hesk_settings['noreply_mail']='support@domain.com';
-$hesk_settings['noreply_name']='Help Desk';
+$hesk_settings['webmaster_mail']='alejandro.montenegro@outlook.com';
+$hesk_settings['noreply_mail']='alejandro.montenegro@outlook.com';
+$hesk_settings['noreply_name']='Help Desk MarDan';
 
 // --> Language settings
 $hesk_settings['can_sel_lang']=0;
@@ -31,7 +31,7 @@ $hesk_settings['db_vrsn']=1;
 
 // --> Help desk settings
 $hesk_settings['hesk_title']='Help Desk';
-$hesk_settings['hesk_url']='http://localhost/mardan/servicedesk';
+$hesk_settings['hesk_url']='http://localhost/mardan/helpdesk';
 $hesk_settings['admin_dir']='admin';
 $hesk_settings['attach_dir']='attachments';
 $hesk_settings['max_listings']=20;
@@ -59,7 +59,7 @@ $hesk_settings['select_pri']=0;
 
 // --> SPAM Prevention
 $hesk_settings['secimg_use']=1;
-$hesk_settings['secimg_sum']='RHRNXSUAUH';
+$hesk_settings['secimg_sum']='RHB3TJ2DTB';
 $hesk_settings['recaptcha_use']=0;
 $hesk_settings['recaptcha_public_key']='';
 $hesk_settings['recaptcha_private_key']='';
@@ -156,8 +156,8 @@ $hesk_settings['open_only']=1;
 $hesk_settings['ticket_list']=array('trackid','lastchange','name','subject','status','lastreplier');
 
 // --> Other
-$hesk_settings['submittedformat']='2';
-$hesk_settings['updatedformat']='2';
+$hesk_settings['submittedformat']='1';
+$hesk_settings['updatedformat']='1';
 
 
 // ==> MISC
@@ -175,7 +175,7 @@ $hesk_settings['alink']=1;
 $hesk_settings['submit_notice']=0;
 $hesk_settings['online']=0;
 $hesk_settings['online_min']=10;
-$hesk_settings['check_updates']=1;
+$hesk_settings['check_updates']=0;
 
 
 // ==> CUSTOM FIELDS
