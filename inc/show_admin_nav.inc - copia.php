@@ -1,6 +1,5 @@
 <?php
 
-
 /* Check if this is a valid include */
 if (!defined('IN_SCRIPT')) {die('Invalid attempt');} 
 
@@ -11,7 +10,15 @@ $num_mail = $num_mail ? '<b>'.$num_mail.'</b>' : 0;
 <div align="center">
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 
+	<tr>
+	<td style="width:4px; height:4px"><img src="../img/header_up_left.png" width="4" height="4" alt="" /></td>
+	<td style="background-image:url(../img/header_top.png); background-repeat:repeat-x; background-position:top; height:4px"></td>
+	<td style="width:4px; height:4px"><img src="../img/header_up_right.png" width="4" height="4" alt="" /></td>
+	</tr>
 
+	<tr>
+	<td style="width:4px; background-image:url(../img/header_left.png); background-repeat:repeat-y; background-position:left;"></td>
+	<td>
 
     <!-- START MENU LINKS -->
 
@@ -129,7 +136,15 @@ $num_mail = $num_mail ? '<b>'.$num_mail.'</b>' : 0;
 
     <!-- END MENU LINKS -->
 
+	</td>
+	<td style="width:4px; background-image: url(../img/header_right.png); background-repeat:repeat-y; background-position:right;"></td>
+	</tr>
 
+	<tr>
+	<td style="width:4px; height:4px"><img src="../img/header_bottom_left.png" width="4" height="4" alt="" /></td>
+	<td style="background-image:url(../img/header_bottom.png); background-repeat:repeat-x; background-position:bottom; height:4px"></td>
+	<td style="width:4px; height:4px"><img src="../img/header_bottom_right.png" width="4" height="4" alt="" /></td>
+	</tr>
 
 </table>
 </div>
