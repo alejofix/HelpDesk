@@ -2,7 +2,56 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fd38f995-bb1d-4445-b05c-e26526a77279" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/change_status.php" beforeDir="false" afterPath="$PROJECT_DIR$/change_status.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/changelog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/docs_style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/quick-guide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/step-by-step-guide.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/download_attachment.php" beforeDir="false" afterPath="$PROJECT_DIR$/download_attachment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_limits.php" beforeDir="false" afterPath="$PROJECT_DIR$/file_limits.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hesk_javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/hesk_javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/admin_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/admin_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/assignment_search.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/assignment_search.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/attachments.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/attachments.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/database.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/database.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/database_mysqli.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/database_mysqli.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/email_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/email_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/footer.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/footer.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/header.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/header.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/knowledgebase_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/knowledgebase_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/mail/email_parser.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/mail/email_parser.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/mail/hesk_pipe.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/mail/hesk_pipe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/mail/hesk_pop3.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/mail/hesk_pop3.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/pipe_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/pipe_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/posting_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/posting_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/prepare_ticket_export.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/prepare_ticket_export.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/prepare_ticket_search.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/prepare_ticket_search.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/print_group.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/print_group.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/print_tickets.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/print_tickets.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/profile_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/profile_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/reporting_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/reporting_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/secimg.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/secimg.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/setup_functions.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/setup_functions.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/ticket_list.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/ticket_list.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/users_online.inc.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/users_online.inc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index - copia.php" beforeDir="false" afterPath="$PROJECT_DIR$/index - copia.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_/hesk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_/install.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_/install_functions.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/install_/update.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ip_whois.php" beforeDir="false" afterPath="$PROJECT_DIR$/ip_whois.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/knowledgebase.php" beforeDir="false" afterPath="$PROJECT_DIR$/knowledgebase.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print.php" beforeDir="false" afterPath="$PROJECT_DIR$/print.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/print_sec_img.php" beforeDir="false" afterPath="$PROJECT_DIR$/print_sec_img.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rate.php" beforeDir="false" afterPath="$PROJECT_DIR$/rate.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.html" beforeDir="false" afterPath="$PROJECT_DIR$/readme.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reply_ticket.php" beforeDir="false" afterPath="$PROJECT_DIR$/reply_ticket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/submit_ticket.php" beforeDir="false" afterPath="$PROJECT_DIR$/submit_ticket.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suggest_articles.php" beforeDir="false" afterPath="$PROJECT_DIR$/suggest_articles.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suggest_email.php" beforeDir="false" afterPath="$PROJECT_DIR$/suggest_email.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ticket.php" beforeDir="false" afterPath="$PROJECT_DIR$/ticket.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,11 +78,53 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/hesk_settings.inc.php" />
-        <option value="$PROJECT_DIR$/inc/header.inc.php" />
         <option value="$PROJECT_DIR$/inc/show_admin_nav.inc.php" />
-        <option value="$PROJECT_DIR$/inc/footer.inc.php" />
         <option value="$PROJECT_DIR$/docs/changelog.html" />
         <option value="$PROJECT_DIR$/admin/admin_main.php" />
+        <option value="$PROJECT_DIR$/readme.html" />
+        <option value="$PROJECT_DIR$/ticket.php" />
+        <option value="$PROJECT_DIR$/suggest_email.php" />
+        <option value="$PROJECT_DIR$/suggest_articles.php" />
+        <option value="$PROJECT_DIR$/submit_ticket.php" />
+        <option value="$PROJECT_DIR$/reply_ticket.php" />
+        <option value="$PROJECT_DIR$/rate.php" />
+        <option value="$PROJECT_DIR$/print_sec_img.php" />
+        <option value="$PROJECT_DIR$/print.php" />
+        <option value="$PROJECT_DIR$/knowledgebase.php" />
+        <option value="$PROJECT_DIR$/ip_whois.php" />
+        <option value="$PROJECT_DIR$/index - copia.php" />
+        <option value="$PROJECT_DIR$/hesk_javascript.js" />
+        <option value="$PROJECT_DIR$/file_limits.php" />
+        <option value="$PROJECT_DIR$/download_attachment.php" />
+        <option value="$PROJECT_DIR$/change_status.php" />
+        <option value="$PROJECT_DIR$/install_/index.php" />
+        <option value="$PROJECT_DIR$/install_/install.php" />
+        <option value="$PROJECT_DIR$/install_/install_functions.inc.php" />
+        <option value="$PROJECT_DIR$/install_/update.php" />
+        <option value="$PROJECT_DIR$/inc/mail/email_parser.php" />
+        <option value="$PROJECT_DIR$/inc/mail/hesk_pipe.php" />
+        <option value="$PROJECT_DIR$/inc/mail/hesk_pop3.php" />
+        <option value="$PROJECT_DIR$/inc/users_online.inc.php" />
+        <option value="$PROJECT_DIR$/inc/ticket_list.inc.php" />
+        <option value="$PROJECT_DIR$/inc/setup_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/secimg.inc.php" />
+        <option value="$PROJECT_DIR$/inc/reporting_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/profile_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/print_tickets.inc.php" />
+        <option value="$PROJECT_DIR$/inc/print_group.inc.php" />
+        <option value="$PROJECT_DIR$/inc/prepare_ticket_search.inc.php" />
+        <option value="$PROJECT_DIR$/inc/prepare_ticket_export.inc.php" />
+        <option value="$PROJECT_DIR$/inc/posting_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/pipe_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/knowledgebase_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/header.inc.php" />
+        <option value="$PROJECT_DIR$/inc/footer.inc.php" />
+        <option value="$PROJECT_DIR$/inc/email_functions.inc.php" />
+        <option value="$PROJECT_DIR$/inc/database_mysqli.inc.php" />
+        <option value="$PROJECT_DIR$/inc/database.inc.php" />
+        <option value="$PROJECT_DIR$/inc/attachments.inc.php" />
+        <option value="$PROJECT_DIR$/inc/assignment_search.inc.php" />
+        <option value="$PROJECT_DIR$/inc/admin_functions.inc.php" />
       </list>
     </option>
   </component>
@@ -58,6 +149,11 @@
             <path>
               <item name="helpdesk" type="b2602c69:ProjectViewProjectNode" />
               <item name="helpdesk" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="helpdesk" type="b2602c69:ProjectViewProjectNode" />
+              <item name="helpdesk" type="462c0819:PsiDirectoryNode" />
+              <item name="inc" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,12 +188,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573413368264</updated>
-      <workItem from="1573413371163" duration="3812000" />
+      <workItem from="1573413371163" duration="5330000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3812000" />
+    <option name="totallyTimeSpent" value="5330000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -127,65 +223,101 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/inc/common.inc.php">
+    <entry file="file://$PROJECT_DIR$/hesk_javascript.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/file_limits.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-25560">
-          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        <state relative-caret-position="-820">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/download_attachment.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2397">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/change_status.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/language/index.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_/hesk.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_/install.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/install_/install_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
-            <element signature="n#style#0;n#form#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/inc/admin_functions.inc.php">
+    <entry file="file://$PROJECT_DIR$/install_/update.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15831">
-          <folding>
-            <element signature="e#32#38#1" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/header.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="90" lean-forward="true" selection-start-line="90" selection-end-line="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/show_admin_nav.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2431">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#table#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#0;n#tr#1;n#table#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/inc/footer.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/attachments/__latest.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/attachments/index.htm">
+    <entry file="file://$PROJECT_DIR$/admin/admin_main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        <state relative-caret-position="1580">
+          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#6#12#1" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1117" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/docs_style.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/changelog.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
+        <state relative-caret-position="9020">
           <caret line="451" column="48" selection-start-line="451" selection-start-column="48" selection-end-line="451" selection-end-column="48" />
           <folding>
             <element signature="n#style#0;n#p#25;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -194,9 +326,83 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/docs/step-by-step-guide.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/quick-guide.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/calendar/index.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/htmlpurifier/HTMLPurifier.standalone.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2200">
+          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/mail/email_parser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/mail/hesk_pipe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/mail/hesk_pop3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#34#40#0" expanded="true" />
+            <element signature="e#58#64#0" expanded="true" />
+            <element signature="e#10#16#0" expanded="true" />
+            <element signature="e#46#52#0" expanded="true" />
+            <element signature="e#39#45#0" expanded="true" />
+            <element signature="e#63#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/mail/index.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/users_online.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2177">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#5#11#0" expanded="true" />
+            <element signature="e#17#23#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/ticket_list.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#3#9#1" expanded="true" />
+            <element signature="e#15#21#1" expanded="true" />
+            <element signature="e#72#78#1" expanded="true" />
+            <element signature="n#style#0;n#th#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/inc/show_search_form.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4132">
+        <state relative-caret-position="9580">
           <caret line="510" column="8" selection-start-line="510" selection-start-column="8" selection-end-line="510" selection-end-column="8" />
           <folding>
             <element signature="e#16#22#1" expanded="true" />
@@ -206,23 +412,171 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/admin/admin_main.php">
+    <entry file="file://$PROJECT_DIR$/inc/show_admin_nav.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="79" lean-forward="true" selection-start-line="79" selection-end-line="79" />
+        <state relative-caret-position="480">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/setup_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/secimg.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/reporting_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/profile_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/print_tickets.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2877">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/print_group.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
           <folding>
             <element signature="e#0#6#0" expanded="true" />
-            <element signature="e#6#12#1" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
+            <element signature="e#0#6#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hesk_settings.inc.php">
+    <entry file="file://$PROJECT_DIR$/inc/prepare_ticket_search.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3891">
-          <caret line="1" column="1" lean-forward="true" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/prepare_ticket_export.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/posting_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/pipe_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/knowledgebase_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#35#41#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#247#253#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#35#41#1" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
+            <element signature="e#247#253#1" expanded="true" />
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/database.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/common.inc.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/attachments.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/assignment_search.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/admin_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#32#38#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/database_mysqli.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/email_functions.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/footer.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/header.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1397">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inc/index.htm">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
