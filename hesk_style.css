@@ -33,7 +33,7 @@ td.white {
 	background-color: #FFFFFF;
 	color : #4a5571;
 	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size: 12px;	
+	font-size: 12px;
 }
 
 td.admin_white {
@@ -42,7 +42,7 @@ td.admin_white {
 	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	border: #d1dceb 1px solid;
-	padding: 1px;	
+	padding: 1px;
 }
 
 td.admin_gray {
@@ -179,7 +179,7 @@ select {
 	height: 20px;
 }
 
-header a img {border: none; text-decoration: none !important;} 
+header a img {border: none; text-decoration: none !important;}
 
 .open {color : #FF0000;}
 .waitingreply {color : #FF9933;}
@@ -202,7 +202,7 @@ header a img {border: none; text-decoration: none !important;}
 .rate {
 	color: #666666;
 	text-align: right;
-	font-style: italic; 
+	font-style: italic;
 }
 
 a.article {
@@ -217,11 +217,11 @@ a.article:hover {
 }
 
 .article_list {
-	font-size: 11px;	
+	font-size: 11px;
 }
 
 fieldset {
-	margin-bottom: 6px; 
+	margin-bottom: 6px;
 	border: 1px SOLID #267DDC;
 	padding: 4px;
 	background-color:white;
@@ -245,7 +245,7 @@ legend {
 	width: auto;
 	padding:5px 5px;
 	position:relative;
-	width:130px;	
+	width:130px;
 }
 
 /*newly introduced styles (version 2.0)*/
@@ -352,7 +352,7 @@ hr {
 	margin-left: 2px;
 	margin-right: 2px;
 	text-decoration: none;
-	margin-top: 0px;	
+	margin-top: 0px;
 }
 
 .orangebuttonover {
@@ -371,7 +371,7 @@ hr {
 	margin-left: 2px;
 	margin-right: 2px;
 	text-decoration: none;
-	margin-top: 0px;		
+	margin-top: 0px;
 }
 
 .bluebutton {
@@ -438,7 +438,7 @@ hr {
 
 .tickettd {
 	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
-	font-size: 12px;	
+	font-size: 12px;
 }
 
 .subheaderrow {
@@ -456,13 +456,13 @@ hr {
 	padding-right: 20px;
 	padding-top: 5px;
 	}
-	
+
 .homepageh3, .section {
 	color: #74804e;
 	font-weight: bold;
 }
 
-/*newly introduced styles (version 2.2)*/	
+/*newly introduced styles (version 2.2)*/
 
 .large {
 	font-size:14px;
@@ -482,22 +482,22 @@ hr {
 }
 
 div.error {
-	border: 1px solid #cd0a0a; 
-	background: #fef1ec; 
+	border: 1px solid #cd0a0a;
+	background: #fef1ec;
 	color: #cd0a0a;
 	padding: 10px;
 }
 
 div.success {
-	border: 1px solid #18760f; 
-	background: #e9ffdb; 
+	border: 1px solid #18760f;
+	background: #e9ffdb;
 	color: #363636;
 	padding: 10px;
 }
 
 div.notice {
-	border: 1px solid #fcefa1; 
-	background: #fff9de; 
+	border: 1px solid #fcefa1;
+	background: #fff9de;
 	color: #363636;
 	padding: 10px;
 	vertical-align: middle;
@@ -534,12 +534,12 @@ div.notice {
 }
 
 hr.dashed  {
-	border: none 0; 
+	border: none 0;
 	border-top: 1px dashed silver;
 	height: 1px;
 }
 
-/* newly introduced styles (version 2.3) */	
+/* newly introduced styles (version 2.3) */
 
 h1 {
 	color : #74804e;
@@ -552,7 +552,7 @@ h1 {
 .critical {
 	color: #9400d3;
 	font-weight: bold;
-} 
+}
 
 td.admin_critical {
 	background-color: #fff0ff;
@@ -571,14 +571,14 @@ td.admin_critical {
 
 .isNotice {
 	color: black;
-	border: 1px solid orange; 
+	border: 1px solid orange;
 	background: #fbf9ee;
 }
-	
+
 .optionWhiteON{
 	padding:2px;
 	border:1px dotted silver;
-	background-color: #b0e0e6;	
+	background-color: #b0e0e6;
 }
 
 .optionWhiteOFF {
@@ -590,7 +590,7 @@ td.admin_critical {
 .optionBlueON {
 	padding:2px;
 	border:1px dotted gray;
-	background-color: #b0e0e6;	
+	background-color: #b0e0e6;
 }
 
 .optionBlueOFF {
@@ -600,7 +600,7 @@ td.admin_critical {
 }
 
 .optionWhiteNbON{
-	border: none; 
+	border: none;
 	background-color: #b0e0e6;
 	vertical-align: text-bottom;
 }
@@ -616,7 +616,7 @@ td.admin_critical {
 }
 
 .kbCatListOFF {
-	background-color: white;	
+	background-color: white;
 }
 
 div.progress-container {
@@ -638,8 +638,8 @@ div.progress-container > div {
 .onhold {color : #000000;}
 
 div.online {
-	border: 1px solid #e5e8ff; 
-	background: #ffffff; 
+	border: 1px solid #e5e8ff;
+	background: #ffffff;
 	color: #000000;
 	padding: 0px;
 	vertical-align: middle;
@@ -650,7 +650,7 @@ span.online {
 	white-space:nowrap;
 }
 
-/* newly introduced styles (version 2.4) */	
+/* newly introduced styles (version 2.4) */
 
 .orangebuttonsec {
 	background-image: url(img/orangebtnsec.jpg);
@@ -668,7 +668,7 @@ span.online {
 	margin-left: 2px;
 	margin-right: 2px;
 	text-decoration: none;
-	margin-top: 0px;	
+	margin-top: 0px;
 }
 
 .orangebuttonsecover {
@@ -687,7 +687,7 @@ span.online {
 	margin-left: 2px;
 	margin-right: 2px;
 	text-decoration: none;
-	margin-top: 0px;		
+	margin-top: 0px;
 }
 
 td.admin_yellow {
@@ -696,7 +696,7 @@ td.admin_yellow {
 	font-family : Verdana, Geneva, Arial, Helvetica, sans-serif;
 	font-size: 11px;
 	border: #d1dceb 1px solid;
-	padding: 1px;	
+	padding: 1px;
 }
 
 /* New styles in HESK version 2.5 */
@@ -723,7 +723,7 @@ td.admin_yellow {
 	background: url(img/ico-search.png) no-repeat #4d90fe center;
 	border: 1px solid #3079ED;
 	-moz-border-radius: 2px;
-	-webkit-border-radius: 2px;	
+	-webkit-border-radius: 2px;
 }
 
 .searchbutton:hover {
@@ -735,28 +735,28 @@ td.admin_yellow {
 	width:400px;
 	height:21px;
 	font-size:14px;
-	text-indent:2px; 
+	text-indent:2px;
 	vertical-align: bottom;
 }
 
 .sbsmall {
-	width:50px; 
-	height:22px; 
+	width:50px;
+	height:22px;
 	margin-top:2px;
 }
 
 .sfsmall {
-	width:200px; 
-	height:16px; 
-	font-size:12px; 
+	width:200px;
+	height:16px;
+	font-size:12px;
 	margin-top:2px;
 }
 
 /* New styles in HESK version 2.6 */
 
 div.info {
-	border: 1px solid #9acfea; 
-	background: #d9edf7; 
+	border: 1px solid #9acfea;
+	background: #d9edf7;
 	color: #363636;
 	padding: 10px;
 	vertical-align: middle;
